@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/ExploreIndia/static/css/main.ac3a66b3.css",
+    "main.js": "/ExploreIndia/static/js/main.1fd50026.js",
+    "static/js/787.4be35100.chunk.js": "/ExploreIndia/static/js/787.4be35100.chunk.js",
+    "static/media/SouthVideos.mp4": "/ExploreIndia/static/media/SouthVideos.f291845c09fef37e5d19.mp4",
+    "static/media/NORTHERNINDIA.mp4": "/ExploreIndia/static/media/NORTHERNINDIA.e640d8ffd83b855fdf10.mp4",
+    "static/media/WestIndiaVideo.mp4": "/ExploreIndia/static/media/WestIndiaVideo.a6ad7c52436827c24d0a.mp4",
+    "static/media/Hyderabad.mp4": "/ExploreIndia/static/media/Hyderabad.9a8d0d784efe8a418893.mp4",
+    "static/media/EastIndia.mp4": "/ExploreIndia/static/media/EastIndia.535990405b1781d20a54.mp4",
+    "static/media/ContactImage.jpg": "/ExploreIndia/static/media/ContactImage.9320948b9573c083a2c4.jpg",
+    "static/media/MountainImg3.jpg": "/ExploreIndia/static/media/MountainImg3.656d5a4cee7654d3a37a.jpg",
+    "static/media/MountainImage5.jpg": "/ExploreIndia/static/media/MountainImage5.266593b9768960f00e56.jpg",
+    "static/media/LocationImage3.png": "/ExploreIndia/static/media/LocationImage3.552a2209f0d12de05884.png",
+    "static/media/eastMap.png": "/ExploreIndia/static/media/eastMap.d86cfcfc7f845b1f7d91.png",
+    "static/media/Person1.png": "/ExploreIndia/static/media/Person1.1d3e8656f8bd2e2b13e5.png",
+    "static/media/Person5.png": "/ExploreIndia/static/media/Person5.73c0c12df5a9c8095532.png",
+    "static/media/CallImage.png": "/ExploreIndia/static/media/CallImage.db6efb1735a743a8e2de.png",
+    "static/media/Destination.png": "/ExploreIndia/static/media/Destination.50294da122d53e42c1af.png",
+    "static/media/southState2.png": "/ExploreIndia/static/media/southState2.0fc214781e9b83d5584a.png",
+    "static/media/PointinPerson2.png": "/ExploreIndia/static/media/PointinPerson2.e5196c025a6189861421.png",
+    "static/media/westIndia2.png": "/ExploreIndia/static/media/westIndia2.878b47bfa17b5b823918.png",
+    "static/media/PointingPerson.png": "/ExploreIndia/static/media/PointingPerson.97e254702a83eedf2fea.png",
+    "static/media/india.png": "/ExploreIndia/static/media/india.b0e629478d7072ded71c.png",
+    "static/media/geolocation.png": "/ExploreIndia/static/media/geolocation.718d24e35999cad3cd1b.png",
+    "static/media/person5.jpg": "/ExploreIndia/static/media/person5.023f2541cc01dd392ea9.jpg",
+    "static/media/person3.jpg": "/ExploreIndia/static/media/person3.cbb653da25fc74b0c2b4.jpg",
+    "index.html": "/ExploreIndia/index.html",
+    "main.ac3a66b3.css.map": "/ExploreIndia/static/css/main.ac3a66b3.css.map",
+    "main.1fd50026.js.map": "/ExploreIndia/static/js/main.1fd50026.js.map",
+    "787.4be35100.chunk.js.map": "/ExploreIndia/static/js/787.4be35100.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac3a66b3.css",
+    "static/js/main.1fd50026.js"
+  ]
+}
